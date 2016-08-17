@@ -5,6 +5,10 @@
 It is a demo word template which has an embedded macro which is capable of importing an XML file output by ReportCompiler.
 It is provided for illustration purposes only and should tie together various tutorials online into something practical.
 
+A full write up of everything that has gone into this please see the blog post here:
+
+https://cornerpirate.com/2016/08/17/import-report-compiler-xml-into-word/
+
 ## What is ReportCompiler ?
 
 A simple Java GUI capable of manipulating the XML output from various computer security scanners such as Nessus, Burp Suite etc. It allows you to delete, merge, re-write and provide evidence in a straight forward manner.
